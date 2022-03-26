@@ -1,2 +1,2 @@
 # AppCalculaFuncao
-Contém meus projetos interessantes e legais.
+Contém o meu projeto de App calculador de diveros tipos de funções matemáticas.
